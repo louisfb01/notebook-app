@@ -1,4 +1,4 @@
-# Notebook APP
+# Notebook app
 
 ### Overview
 
