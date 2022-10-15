@@ -15,6 +15,14 @@
         {
             "key": "CODA_HUB_API_URL",
             "value": "$CODA_HUB_API_URL"
+        },
+        {
+            "key": "CODA_NOTEBOOK_APP_AUTH_CLIENT_ID",
+            "value": "$CODA_NOTEBOOK_APP_AUTH_CLIENT_ID"
+        },
+        {
+            "key": "CODA_NOTEBOOK_APP_AUTH_CLIENT_SECRET",
+            "value": "$CODA_NOTEBOOK_APP_AUTH_CLIENT_SECRET"
         }
     ]
 }
