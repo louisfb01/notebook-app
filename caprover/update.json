@@ -2,6 +2,7 @@
     "appName": "notebook-app",
     "instanceCount": 1,
     "notExposeAsWebApp": false,
+    "websocketSupport": true,
     "containerHttpPort": "8888",
     "envVars": [
         {
