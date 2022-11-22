@@ -3,6 +3,7 @@
     "instanceCount": 1,
     "notExposeAsWebApp": false,
     "websocketSupport": true,
+    "forceSsl": true,
     "containerHttpPort": "8888",
     "envVars": [
         {
@@ -20,6 +21,10 @@
         {
             "key": "CODA_NOTEBOOK_APP_AUTH_CLIENT_ID",
             "value": "$CODA_NOTEBOOK_APP_AUTH_CLIENT_ID"
+        },
+        {
+            "key": "CODA_AUTH_SERVICE_TOKEN_ENDPOINT_URL",
+            "value": "$CODA_AUTH_SERVICE_TOKEN_ENDPOINT_URL"
         },
         {
             "key": "CODA_NOTEBOOK_APP_AUTH_CLIENT_SECRET",
