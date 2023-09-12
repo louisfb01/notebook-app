@@ -3,7 +3,7 @@
     "instanceCount": 1,
     "notExposeAsWebApp": false,
     "websocketSupport": true,
-    "forceSsl": true,
+    "forceSsl": false,
     "containerHttpPort": "8888",
     "envVars": [
         {
